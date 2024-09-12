@@ -1,4 +1,5 @@
 // Não achei nenhum JSON ou XML disponível, portante pedi ao Gemini que me gerasse um JSON.
+// O arquivo JSON esta dentro da pasta output (pasta dos executaveis)
 
 #include <iostream>
 #include <vector>
